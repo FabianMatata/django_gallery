@@ -4,6 +4,7 @@ from .models import Category, Photo, Location
 # Create your views here.
 
 def gallery(request):
+    locations = Location.objects.all()
     category = request.GET.get('category')
     if category == None:
         photos = Photo.objects.all()
@@ -13,7 +14,7 @@ def gallery(request):
     categories = Category.objects.all()
     photos = Photo.objects.all()
 
-    context = {'categories': categories, 'photos': photos}
+    context = {'categories': categories, 'photos': photos, 'locations':locations}
     return render(request, 'photos/gallery.html', context)
 
 def viewPhoto(request, pk):

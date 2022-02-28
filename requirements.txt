@@ -3,6 +3,7 @@ backports.zoneinfo==0.2.1
 certifi==2021.10.8
 charset-normalizer==2.0.12
 Django==4.0.2
+django-location-field==2.1.0
 gunicorn==20.1.0
 heroku==0.1.4
 idna==3.3
