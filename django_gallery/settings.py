@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-k&2mq_j_6q5e6w%c@oimt!ypfwsh+=cith0-pg*$e+vi#1^y@x
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    # 'django-gallery-photos.herokuapp.com'
+    'django-gallery-photos.herokuapp.com'
 ]
 
 
