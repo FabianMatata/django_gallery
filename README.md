@@ -1,7 +1,7 @@
 # Django Gallery
 ## Author  
   
->[FabianMatata](https://github.com/FabianMatata)  
+>[Fabian Matata](https://github.com/FabianMatata)  
   
 # Description  
 This is a Django application for personal gallery that allows a user to upload images for other to see and be able to to share by coping the image link.
@@ -82,3 +82,7 @@ If you have any question or contributions, please email me at **mfabian601@gmail
 
 * 
 * Copyright (c) 2022 **Fabian Matata**
+
+
+## commits 
+1
