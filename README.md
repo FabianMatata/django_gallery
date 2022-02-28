@@ -31,7 +31,7 @@ To get the project .......
 ```
 ##### Navigate into the folder and install requirements  
  ```bash 
-cd Picture-Globe pip install -r requirements.txt 
+cd django_gallery pip install -r requirements.txt 
 ```
 ##### Install and activate Virtual  
  ```bash 
@@ -68,7 +68,7 @@ Open the application on your browser `127.0.0.1:8000`.
 ## Technology used  
   
 * [Python3.6](https://www.python.org/)  
-* [Django 1.11](https://docs.djangoproject.com/en/2.2/)  
+* [Django](https://docs.djangoproject.com/en/2.2/)  
 * [Heroku](https://heroku.com)  
   
   
@@ -80,6 +80,5 @@ If you have any question or contributions, please email me at **mfabian601@gmail
   
 ## License 
 
-* 
 * Copyright (c) 2022 **Fabian Matata**
 
