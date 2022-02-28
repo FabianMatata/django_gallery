@@ -83,9 +83,3 @@ If you have any question or contributions, please email me at **mfabian601@gmail
 * 
 * Copyright (c) 2022 **Fabian Matata**
 
-
-## commits 
-12345678910
-12345678910
-12345678910
-123456
