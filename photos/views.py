@@ -48,3 +48,5 @@ def addPhoto(request):
 
     context = {'categories': categories}
     return render(request, 'photos/add.html', context)
+
+    ##
